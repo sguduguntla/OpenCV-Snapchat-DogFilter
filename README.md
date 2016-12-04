@@ -1,8 +1,3 @@
-# bearhacks_cvision
-Demo source code for BearHacks computer vision workshop.
+#Made at BearHacks 2016
 
-## Face Swap Demo
-![face swap](/doc/face_swap.png)
-
-## Billboard / Transformation Demo
-![transformation](/doc/billboard_ex.png)
+Mini OpenCV Project involving the Snapchat Dog Filter
